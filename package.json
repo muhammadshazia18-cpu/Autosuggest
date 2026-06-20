@@ -1,0 +1,23 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "Checking my git set-up : )\r flow of push\r 1.Add\r 2.Commit\r 3.Push",
+  "homepage": "https://github.com/muhammadshazia18-cpu/Autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/muhammadshazia18-cpu/Autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadshazia18-cpu/Autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "Shazia",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
